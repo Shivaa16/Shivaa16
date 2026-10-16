@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shiva Kumar 👋
 
-<!--
-**Shivaa16/Shivaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Aspiring Software Engineer | Full-Stack Developer
+I'm passionate about building practical web applications, exploring modern technologies, and solving real-world problems through code.
+```
+### Tech Stack 
+Java
 
-Here are some ideas to get you started:
+JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React
+
+Python
+
+HTML
+
+CSS
+
+Git
+
+GitHub
+
+### Featured Projects 
+
+Campus One — Campus Management Platform
+
+Lenny Growth Assistant — AI Research Tool
+
+MyCart — React Shopping Application
+
+### Let's Connect 
+https://www.linkedin.com/feed/
