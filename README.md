@@ -45,7 +45,7 @@ I'm always interested in learning, collaborating, and building meaningful softwa
 
 ```
 -  **GitHub:** [Shivaa16](https://github.com/Shivaa16)
--  **Linkedin:**{https://www.linkedin.com/feed/}
+-  **Linkedin:**(https://www.linkedin.com/)
 -  **Portfolio:** Coming soon
 
 
