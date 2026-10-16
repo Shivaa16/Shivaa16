@@ -39,13 +39,13 @@ A Java web application with server-side form validation and structured user feed
 **Tech:** Java, JSP, Servlets, Maven
 
 ```
-##  Let's Connect
+ Let's Connect
 
 I'm always interested in learning, collaborating, and building meaningful software.
 
+```
 -  **GitHub:** [Shivaa16](https://github.com/Shivaa16)
 -  **Portfolio:** Coming soon
 
-```
 
 *Always learning. Always building. Always improving.*
