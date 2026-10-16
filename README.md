@@ -1,33 +1,51 @@
 # Hi, I'm Shiva Kumar 👋
 
-```
+
 Aspiring Software Engineer | Full-Stack Developer
-I'm passionate about building practical web applications, exploring modern technologies, and solving real-world problems through code.
+I'm passionate about building practical web applications, exploring modern technologies,
+and solving real-world problems through code.
+
 ```
 ### Tech Stack 
-Java
+**Languages:** Java • Python • JavaScript • HTML5 • CSS3 • TypeScript
 
-JavaScript
+**Frontend:** React.js • Vite
 
-React
+**Backend:** FastAPI • Java Servlets • JSP
 
-Python
+**Tools & Technologies:** Git • GitHub • VS Code • Maven • PostgreSQL
 
-HTML
+```
+## Featured Projects 
 
-CSS
+### 🎓 [Campus One](https://github.com/Shivaa16/Campus-One)
+A smart campus management platform developed for a college hackathon, designed to streamline campus requests and improve communication between students, faculty, and administrators.
 
-Git
+**Tech:** React.js, JavaScript, Vite
 
-GitHub
+### 🤖 [Lenny Growth Assistant](https://github.com/Shivaa16/The-Lenny-Growth-Assistant)
+An AI-powered research and writing assistant featuring persistent conversations, source-backed answers, and a modern web interface.
 
-### Featured Projects 
+**Tech:** Python, FastAPI, React, TypeScript, PostgreSQL
 
-Campus One — Campus Management Platform
+### 🛒 [MyCart Web](https://github.com/Shivaa16/MyCart-Web)
+A React-based shopping application created to strengthen frontend development skills.
 
-Lenny Growth Assistant — AI Research Tool
+**Tech:** React.js, JavaScript
 
-MyCart — React Shopping Application
+### ☕ [Student Registration System](https://github.com/Shivaa16/Registration-form)
+A Java web application with server-side form validation and structured user feedback.
 
-### Let's Connect 
-https://www.linkedin.com/feed/
+**Tech:** Java, JSP, Servlets, Maven
+
+```
+##  Let's Connect
+
+I'm always interested in learning, collaborating, and building meaningful software.
+
+-  **GitHub:** [Shivaa16](https://github.com/Shivaa16)
+-  **Portfolio:** Coming soon
+
+```
+
+*Always learning. Always building. Always improving.*
