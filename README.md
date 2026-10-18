@@ -6,14 +6,14 @@ I'm passionate about building practical web applications, exploring modern techn
 and solving real-world problems through code.
 
 ```
-### Tech Stack 
-**Languages:** Java • Python • JavaScript • HTML5 • CSS3 • TypeScript
+Tech Stack 
+Languages: Java • Python • JavaScript • HTML5 • CSS3 • TypeScript
 
-**Frontend:** React.js • Vite
+Frontend: React.js • Vite
 
-**Backend:** FastAPI • Java Servlets • JSP
+Backend: FastAPI • Java Servlets • JSP
 
-**Tools & Technologies:** Git • GitHub • VS Code • Maven • PostgreSQL
+Tools & Technologies:** Git • GitHub • VS Code • Maven • PostgreSQL
 
 ```
 ## Featured Projects 
